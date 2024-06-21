@@ -8,7 +8,7 @@ def sum_of_digits(number: int):
         result += number % 10
         number //= 10
     return result
-
+# hey
 
 def is_lucky(number: int):
     if not isinstance(number, int):
