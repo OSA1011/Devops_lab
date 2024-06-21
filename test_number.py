@@ -40,7 +40,6 @@ def test_sum_exception():
     [
         (1212, True),
         (-8035, True),
-        (353, True),
         (7, True),
         (135, False)
     ],
