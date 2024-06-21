@@ -25,3 +25,4 @@ def is_lucky(number: int):
 
 print("ok")
 print(sum_of_digits(123))
+# ;lkfmas;dkla';dlkf;'sa
